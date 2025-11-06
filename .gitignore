@@ -1,0 +1,4 @@
+.streamlit
+.vscode
+__pycache__
+schema.prisma
